@@ -1,0 +1,4 @@
+col1,date
+col2,char(11)
+col3,int
+col4,date
